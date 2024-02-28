@@ -1,0 +1,12 @@
+.r5{
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.rr5{
+    display: flex;
+    justify-content: center;
+}
