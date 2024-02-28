@@ -7,7 +7,7 @@ function PageFive() {
       <div className="heading">
         <h1 className="p1h">05</h1>
         <h4>Cards</h4>
-        <p>___________</p>
+        <p>__________</p>
       </div>
       <div className="row rr5">
         <div class="row r5 row-cols-1 row-cols-md-4 g-4">
