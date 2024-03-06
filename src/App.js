@@ -13,11 +13,10 @@ function App() {
       <div className="container-fluid">
 
     <HomeComp/>
-    {/* <PageOne/> */}
-    {/* <PageThree/> */}
-    {/* <PageFive/> */}
-
+    <PageOne/>
     <PageTwo/>
+    <PageThree/>
+    <PageFive/>
 
 
     </div>
